@@ -31,6 +31,9 @@ Actualmente no es necesario cambiar La configuración del programa; pero se debe
 NOTA: En una siguiente versión se puede incluir como mejora la ruta especifica del directorio donde se genere el documento csv ó json.
 
 # Funcionamiento
-
+1. El programa hace el relevamiento de la iformación del servidor
+2. Determina iformación complemetaria para idetificar el servidor (dirección IP) y fecha al momento de la ejecución.
+3. La información recopilada es almaceada en formato csv
+4. Por ultimo la iformación es almacenada en formato json desde csv
 
 
