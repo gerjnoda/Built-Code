@@ -1,5 +1,3 @@
-# Built-Code
-
 # Programa_Inventario_Servidores
 
 Programa_Inventario_Servidores esta desarrollado en Python y esta compuesto por un agente que pueda ser ejecutado en cualquier servidor, y recopila los siguientes datos:
