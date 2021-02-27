@@ -2,7 +2,7 @@
 
 Programa_Inventario_Servidores
 
-El sistema Programa_Inventario_Servidores esta desarrollado en Python y esta compuesto por un agente que pueda ser ejecutado en cualquier servidor, y recopila los siguientes datos a una aplicación (API):
+El sistema Programa_Inventario_Servidores esta desarrollado en Python y esta compuesto por un agente que pueda ser ejecutado en cualquier servidor, y recopila los siguientes datos:
 ● Información sobre el procesador
 ● Listado de procesos corriendo
 ● Usuarios con una sesión abierta en el sistema
