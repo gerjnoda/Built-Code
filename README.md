@@ -28,7 +28,7 @@ C:\python -m pip install --upgrade pip
 **Cofiguración**
 Actualmente no es necesario cambiar La configuración del programa; pero se debe indicar el directorio al momento de la ejecución del programa por linea de comando
 
-NOTA: En una siguiete versión se puede incluir como mejora la ruta especifica del directorio donde se genere el documento csv ó json.
+NOTA: En una siguiente versión se puede incluir como mejora la ruta especifica del directorio donde se genere el documento csv ó json.
 
 
 
