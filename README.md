@@ -15,12 +15,15 @@ Por último la información es almacenada en formato JSON (archivo de texto plan
 # Instalación
 Para ejecutar es requerido tener instalado python (https://www.python.org/) en servidor donde se vaya a ejecutar
 
-El programa usa las librerías: psutil (https://pypi.org/project/psutil/) y pandas (https://pypi.org/project/pandas/). Por lo tanto, para que funcione es necesario tener instalado los siguientes paquetes:
+El programa usa las librerías: psutil (https://pypi.org/project/psutil/), sockets (https://pypi.org/project/sockets/) y pandas (https://pypi.org/project/pandas/). Por lo tanto, para que funcione es necesario tener instalado los siguientes paquetes:
 1. psutil
 C:\>python -m pip install psutil
 
 2. pandas
 pip install pandas
+
+3. sockets
+pip install sockets
 
 Seguramente deban instalar o actualizar la librería pip para poder instalar las librerías
 C:\python -m pip install --upgrade pip
